@@ -71,6 +71,7 @@ main p{
     font-size: small;
     text-align: center;
     justify-content: center;
+    margin-bottom:20px;
 }
 main button{
     width:150px;
