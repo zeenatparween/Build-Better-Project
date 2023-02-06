@@ -79,7 +79,8 @@ main button{
     color: white;
     border-radius: 5px;
     align-items: center;
-    margin:10px 0px 0px 400px;
+    display:block;
+    margin:auto;
    }
    main button:hover{
     background-color: aqua;
